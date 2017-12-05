@@ -1,0 +1,28 @@
+#!/bin/bash
+# run the whole analysis pipeline
+
+echo "Fitting from database..."
+
+python3 01_fit_from_database.py
+
+echo "Finished fitting! Now cleaning summary..."
+
+python3 02_clean_summary.py
+
+echo "Finished cleaning summary, now fixing it in R... really should make the python work, but whatever..."
+
+Rscript R_Scripts/03_reattach_temp_prefs.R
+
+echo "Fixed! now better calculate group means..."
+
+python3 04_calc_group_means_no_agg.py
+
+echo "Now fitting BA to summary..."
+
+python3 05_fit_to_summary_no_agg.py
+
+echo "Now fitting it to groups of archaea..."
+
+python3 06_fit_to_summary_no_agg_archaea.py
+
+echo "Finished, ready for analysis in R - look at 'Final_analysis' scripts"

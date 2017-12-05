@@ -1,0 +1,138 @@
+"id","id_spp","id_process","E_sch","B0_sch","B0Bug","E_D_sch","T_h_sch","T_pk_sch","P_pk_sch","P_pkBug","AIC_sch","r_sq_sch","AftPk","BefPk","B0exp1_sch","B0exp2_sch","B0exp5_sch","B0exp10_sch"
+"MTD208","Nabis roseipennis","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,NA
+"MTD209","Lycaon pictus","Resource Reaction Distance",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA
+"MTD210","Lycaon pictus","Resource Reaction Distance",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA
+"MTD211","gravity","Avoidance Body Velocity",1.188998583662,-8.27704830851417,FALSE,3.17113104277996,300.415561609738,301.15,-4.1744827312817,FALSE,0.557162319073402,0.905814815698403,2,4,0.000297410006527528,0.00035715424554347,0.000613646472303375,0.0014740261654618
+"MTD212","Macrocheles muscaedomesticae","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD213","Carcinops pumilio","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD214","Zootoca vivipara","Subjugation-through-Consumption Duration",0.00807309926810379,4.74714134693292,FALSE,0.824813050811061,250.000283973982,284.18,4.07395048545468,FALSE,17.7488835275141,0.424213626578976,4,4,89.9675034494711,87.471004794903,79.0467416595768,62.7930526366654
+"MTD215","Thamnophis sirtalis","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD216","Podisus maculiventris","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,0,NA,NA,NA,NA
+"MTD217","Podisus maculiventris","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,1,NA,NA,NA,NA
+"MTD218","Podisus maculiventris","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,1,NA,NA,NA,NA
+"MTD219","Labidura riparia","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA
+"MTD220","Podisus nigrispinus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,0,NA,NA,NA,NA
+"MTD221","Podisus nigrispinus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,3,NA,NA,NA,NA
+"MTD222","Podisus nigrispinus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,5,NA,NA,NA,NA
+"MTD223","Bembidion quadrimaculatum","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD224","Stethorus punctum","Resource Consumption Rate",0.666769654015974,-1.51320309085605,FALSE,7.70306910849522,304.208540461446,304.15,1.28732845029911,FALSE,20.2023799276716,0.401794249993983,6,6,0.240423262747184,0.266415519422681,0.360897748731771,0.590039529241764
+"MTD225","Stethorus punctum","Resource Consumption Rate",0.572436350949481,-0.773465608081625,FALSE,3.27510510509501,308.073882902713,306.15,1.75401446317895,FALSE,11.4482299715437,0.494132439187267,2,10,0.497556801228774,0.543398161304694,0.705167684311375,1.07543134656917
+"MTD226","Stethorus punctum","Resource Consumption Rate",1.01048170071279,-2.35965331564818,FALSE,3.34667774959723,305.607728678314,305.15,1.83516893516824,FALSE,6.48644080553142,0.655624878422322,2,10,0.107903313606427,0.126066529904015,0.199699992418527,0.420652484551826
+"MTD227","Stethorus punctum","Resource Consumption Rate",0.561437970515028,-0.501551832161149,FALSE,1.94932101869111,309.642844792773,306.15,1.90671228548348,FALSE,8.66756255653569,0.41945530621888,2,10,0.652064972209127,0.710929249216628,0.917911744706861,1.38813849271237
+"MTD228","Stethorus punctum","Resource Consumption Rate",0.574796421694736,-1.97868822954745,FALSE,3.87058770493198,350,306.15,0.652702019162129,FALSE,19.7644816859744,0.521125891630861,2,10,0.149126970512526,0.162925667991347,0.211655940905189,0.323353780253742
+"MTD229","Pterostichus cupreus","Voluntary Body Velocity",0.517279729182248,-0.0921953994196507,FALSE,0.577700755104996,350,303.15,1.71451147305811,FALSE,-0.820291712386997,0.974740982781649,0,4,0.936661632393451,1.01049778750535,1.2620451952221,1.79402118947026
+"MTD230","Bembidion lampros","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD231","Cardiochiles philippinensis","Host-Per-Parasitoid Parasitization Rate",0.138747266513056,3.09561536264102,FALSE,0.816913999963824,250,298.15,-0.956166535779228,FALSE,9.70009923627069,0.731939075000175,4,0,3.37899767132495,3.0989687714183,2.37524362554417,1.50677116274742
+"MTD232","Cardiochiles philippinensis","Host-Per-Parasitoid Parasitization Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,NA,NA
+"MTD233","Cardiochiles philippinensis","Host-Per-Parasitoid Parasitization Rate",1.6435888409604e-06,0.0947610175963406,FALSE,2.58054368607717,267.365943629199,298.15,0.0300876303234706,FALSE,-12.0543754732751,0.991387522788785,4,0,1.09938579140576,1.09938093109942,1.09934669016952,1.09905875534803
+"MTD234","Cardiochiles philippinensis","Host-Per-Parasitoid Parasitization Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,NA,NA
+"MTD235","Cardiochiles philippinensis","Host-Per-Parasitoid Parasitization Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,NA,NA
+"MTD236","Cardiochiles philippinensis","Host-Per-Parasitoid Parasitization Rate",0.00164352782553128,1.16270393675856,FALSE,1.75256097205734,277.748953962576,298.15,1.03705717521482,FALSE,-17.0142169577496,0.995333824159132,4,0,3.19816035211895,3.19862824523685,3.19925956712633,3.19468770868778
+"MTD237","Orius insidiosus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD238","Naucoris congrex","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,11,NA,NA,NA,NA
+"MTD239","Naucoris congrex","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,12,NA,NA,NA,NA
+"MTD240","Naucoris congrex","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,14,NA,NA,NA,NA
+"MTD241","Naucoris congrex","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,14,NA,NA,NA,NA
+"MTD242","Naucoris congrex","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,14,NA,NA,NA,NA
+"MTD243","Naucoris congrex","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,15,NA,NA,NA,NA
+"MTD244","Naucoris congrex","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,16,NA,NA,NA,NA
+"MTD245","Psammodromus algirus","Forward Attack Distance",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA
+"MTD246","Phytoseiulus persimilis","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD247","Phytoseiulus persimilis","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD248","Phytoseiulus persimilis","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD249","Phytoseiulus persimilis","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD250","Phytoseiulus persimilis","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD251","Phytoseiulus persimilis","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD252","Geocoris bullatus","Handling Duration",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA
+"MTD253","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD254","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD255","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD256","Uta stansburiana","Resource Mass Consumption Rate",2.81661228618481,-4.17571663546146,TRUE,2.97875184437444,304.658071918941,305.15,5.28431901950493,TRUE,-22.4876658524272,0.998666220262962,1,3,0.0222664658093122,0.0343532925026261,0.123801231250917,0.985044204761053
+"MTD257","Geocoris punctipes","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD258","Bembidion lampros","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,11,NA,NA,NA,NA
+"MTD259","Pterostichus cupreus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,8,NA,NA,NA,NA
+"MTD260","Bembidion lampros","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,11,NA,NA,NA,NA
+"MTD261","prodding with a probe","Escape Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD262","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA
+"MTD263","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD264","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA
+"MTD265","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD266","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD267","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD268","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA
+"MTD269","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD270","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD271","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA
+"MTD272","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD273","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD274","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD275","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD276","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA
+"MTD277","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD278","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD279","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD280","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD281","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD282","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD283","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA
+"MTD284","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA
+"MTD285","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD286","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD287","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD288","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA
+"MTD289","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD290","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD291","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA
+"MTD292","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA
+"MTD293","Anisops deanei","Voluntary Body Velocity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA
+"MTD294","Parus major","Subjugation-through-Consumption Duration",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA
+"MTD295","Parus major","Subjugation-through-Consumption Duration",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA
+"MTD296","Parus major","Subjugation-through-Consumption Duration",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,NA
+"MTD297","Parus major","Subjugation-through-Consumption Duration",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,NA
+"MTD298","Porotermes adamsoni","Resource Mass Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD299","Porotermes adamsoni","Resource Mass Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA
+"MTD300","Amara aenea","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,NA
+"MTD301","Harpalus rufipes","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD302","Tachinus signatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD303","Pterostichus madidus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD304","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD305","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD306","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD307","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD308","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD309","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD310","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD311","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD312","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD313","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD314","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD315","Geocoris bullatus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD316","Porotermes adamsoni","Resource Mass Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD317","Porotermes adamsoni","Resource Mass Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD318","Ranatra dispar","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,31,NA,NA,NA,NA
+"MTD319","Ranatra dispar","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,6,NA,NA,NA,NA
+"MTD320","Ranatra dispar","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,23,NA,NA,NA,NA
+"MTD321","Orius insidiosus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+"MTD322","Orius insidiosus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD323","Orius insidiosus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD324","Orius insidiosus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,NA,NA,NA,NA
+"MTD325","Nabis roseipennis","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA
+"MTD326","Hemicordulia tau","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA
+"MTD327","Hemicordulia tau","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,NA
+"MTD328","Psammodromus algirus","Subjugation-through-Consumption Duration",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA
+"MTD329","Hiatella arctica","Mass-Specific Filtration Rate",1.12745486717448,-6.67492672668882,FALSE,5.09945454267454,287.618873435326,288.5041,-4.55413875096031,FALSE,10.8790884719989,0.852982650763042,3,4,0.00146427991058515,0.00174182755326107,0.00290951123433323,0.00661687133668293
+"MTD330","Callinectes sapidus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA
+"MTD331","Callinectes sapidus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD332","Callinectes sapidus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD333","Callinectes sapidus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD334","Callinectes sapidus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA
+"MTD335","Callinectes sapidus","Resource Consumption Rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,NA
+"MTD336","Carcinus maenas","Resource Consumption Rate",1.61181870956162,-3.32848319611973,FALSE,22.7340209832426,290.265443510863,290.15,0.630551063698507,FALSE,62.3751333903646,0.511538791093603,4,20,0.044328762371503,0.0568144240694907,0.118338359227789,0.388350033794461
+"MTD337","Carcinus maenas","Resource Consumption Rate",0.73495324695893,-1.61694728992082,FALSE,6.87822687494962,290.447228333026,290.25,0.127385176431424,FALSE,71.5220232958431,0.143929423167959,15,13,0.218686705611461,0.244886278735977,0.342191497167339,0.588248508571465
+"MTD338","Perca fluviatilis","Resource Consumption Rate",3.55659943944958,-3.93038583846048,FALSE,3.56022651307764,291.280151441956,293.15,-1.41792370026428,FALSE,-20.1582349111472,0.997191275070686,1,3,0.0278088723933506,0.0444004121193846,0.129096599351186,0.228786001624314
+"MTD339","Perca fluviatilis","Resource Consumption Rate",0.987488695691719,-2.63469212368064,FALSE,29.3554261509832,292.386263682372,289.15,-0.313984473704,FALSE,9.27192663142175,0.924304574001003,1,3,0.0817092788395078,0.0951259571819612,0.149118632335024,0.308831635353373
+"MTD340","Perca fluviatilis","Resource Consumption Rate",1.01494752989298,-2.45586794757252,FALSE,5.67833197627202,291.199869237284,289.15,-0.11347621997908,FALSE,-6.62589854487641,0.996893412112972,1,3,0.0980629259455015,0.114648514865874,0.181981903197646,0.384483567642518
+"MTD341","Perca fluviatilis","Resource Consumption Rate",0.737044450298682,-2.43829959895495,FALSE,30.0082769131768,292.408054085605,289.15,-0.706163605440602,FALSE,6.89864919496796,0.903192773663849,1,3,0.0962128917645192,0.107774290110834,0.150741767571675,0.259556699247133
+"MTD342","Perca fluviatilis","Resource Consumption Rate",1.12389398948325,-2.42788485031477,FALSE,2.31577437440298,292.267188735151,293.15,0.0205387750457562,FALSE,-28.9825432019849,0.99994118230735,0,4,0.102093853877051,0.121273610551779,0.201185150275336,0.443993832362514
+"MTD343","Perca fluviatilis","Resource Consumption Rate",0.938900591122035,-2.56794439297692,FALSE,31.5008987572202,292.37076952523,289.15,-0.361424117965806,FALSE,9.84565208445211,0.880607342544306,1,3,0.0867919329353558,0.100290135290371,0.153774706985982,0.30726780907704
+"MTD344","Cicindela hybrida","Foraging Velocity",0.537374951311002,3.39885046840511,FALSE,2.24225685235649,304.890645781901,305.15,5.50034645597945,FALSE,14.8144295718863,0.369190577105168,14,39,32.1248596455156,34.8954372262007,44.5644257815799,66.2068575378138
