@@ -22,7 +22,6 @@
 
 ### To call the function, all variables should be given (trait,ID,temper,species,traitName). If you do not have values for any of these variables (for instance species name or trait name), add a blank column for each to your dataset prior to run the code.
 
-
 # Required packages...
 library(ggplot2, graphics)
 library(lattice)
@@ -93,9 +92,7 @@ GetTpk <- function(tmp, rate)
 }
 
 
-
-
-###################### Boltzmann - Arrhenius model.
+################ Boltzmann - Arrhenius model #############
 Boltzmann.Arrhenius <- function(lnB0, E, temp) {
     
     # Boltzmann's constant. Units imply that E is in eV.
@@ -138,9 +135,8 @@ Schoolfield <- function(lnB0, E, E_D, T_h, temp, SchoolTpk=TRUE)
 
 }
 
-####################################################################################
-############################# M  A  I  N    C  O  D  E #############################
-####################################################################################
+######################################################################################################## M  A  I  N    C  O  D  E ############################
+################################################################################
 
 TPCFit <- function(Data,trait,ID,temper,species,traitName,PLOT=TRUE,OverPLOT=FALSE,Model="Schoolfield",SchoolTpk=TRUE,rand.st=FALSE, n.rand=20){ 
     # MODEL can be also "Boltzmann" or "all" for both
