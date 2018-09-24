@@ -1,2 +1,2 @@
 # TPCFitting
-Python and R Code for fitting Thermal Performance Models to data 
+Python and R Code/packages for fitting Thermal Performance Models to data 
