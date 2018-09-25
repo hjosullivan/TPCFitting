@@ -388,7 +388,6 @@ School_Tpk = function(lnB0, E, E_D, Tp_K, Tref_K, tmp_K, k=BOLTZ)
 }
 
 
-
 SchoolTpkFit = function(dat, trait_name, temp_name, unc_name=NULL, Tref_K,
                         n_rand=1, k=BOLTZ)
 {

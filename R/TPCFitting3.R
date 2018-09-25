@@ -149,7 +149,6 @@ TPCFit <- function(Data,trait,ID,temper,species,traitName,PLOT=TRUE,OverPLOT=FAL
 
     if (OverPLOT==TRUE) PLOT <- FALSE
     
-
     # Loads Data
     curvespt <- Data
     curvespt$StandardisedTraitValue <- Data[,trait]
