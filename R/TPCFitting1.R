@@ -143,7 +143,7 @@ for (i in 1:length(IDs)){   # loop to run analysis for each thermal response sep
     if (!is.null(NLSfit)){break} else{StartVals$E_D_strt <- StartVals$E_D_strt*1.1}
   }
   
-  if(IDs[i] == 7){ browser()}
+  # if(IDs[i] == 7){ browser()}
 
   ###### PLOTTING ######
   DataToPlot <- data.frame(Temperature = tmpData[, "ConTemp"] - 273.15, OriginalTraitValue = tmpData[, "OriginalTraitValue"])
