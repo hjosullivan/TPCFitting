@@ -1,11 +1,14 @@
 ####### PYTHON #######
 
-Thermal model fitting library based on code written by Joss Thomas for ''Hotter is Better'' project
-Note that this is Python3!
+Thermal model fitting library.
+
+Based on code written by Joss Thomas for his "Hotter is Better" project.
+
+All code written in Python 3
 
 Check thermal models README for list of dependencies
 
-Authors: thomas.smith1@imperial.ac.uk; tjt213@ic.ac.uk
+Authors: thomas.smith1@imperial.ac.uk; tjt213@ic.ac.uk; s.pawar@imperial.ac.uk
 
 Thermal_Models.py: Main fitting library, See README_THERMAL_MODELS
 
@@ -21,18 +24,8 @@ To run, navigate to Code directory, then:
 
 ===============================================================================================================
 
-Bugs:
+Bugs/TODos:
 
-currently estimate_uncertainty isn't compatible with boltzmann arrhenius due to it not having a "model" attribute...
-... meaning fit_from_database.py only works with Schoolfield models at the moment ...
-... this is fixable, but I just haven't done it yet.
-
-
-
-###### R ######
-
-Also added the Schoolfield fitting code in R:
-
-SchoolfieldModelling.R
-
-Simply for fitting Schoolfield to data and ignoring all the other stuff that the python code was written for...
+* Currently `estimate_uncertainty` isn't compatible with the Boltzmann-Arrhenius model because 
+it does not have a "model" attribute. This means `fit_from_database.py` only works with the difefrent Schoolfield models 
+at the moment. 
